@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: aqua;
+    border: 30px;
+    padding: 20px;
+    border-radius: 25px;
+}
